@@ -1,0 +1,3 @@
+/Users/rickard/CLionProjects/Othello/CMakeFiles/rebuild_cache.dir
+/Users/rickard/CLionProjects/Othello/CMakeFiles/edit_cache.dir
+/Users/rickard/CLionProjects/Othello/CMakeFiles/Othello.dir

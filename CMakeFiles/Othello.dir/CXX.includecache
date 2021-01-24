@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rickard/CLionProjects/Othello/agent.cpp
+iostream
+-
+vector
+-
+agent.h
+/Users/rickard/CLionProjects/Othello/agent.h
+iomanip
+-
+stdlib.h
+-
+time.h
+-
+limits
+-
+algorithm
+-
+random
+-
+iterator
+-
+
+/Users/rickard/CLionProjects/Othello/agent.h
+vector
+-
+string
+-
+
